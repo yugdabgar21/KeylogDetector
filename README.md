@@ -1,7 +1,3 @@
-===========================================================================
-                           Offline KeylogDetector
-===========================================================================
-
                  Offline Keylogger Detection Tool for Windows
                      Created by MASTERxD (Yug)
                     https://github.com/yugdabgar21
